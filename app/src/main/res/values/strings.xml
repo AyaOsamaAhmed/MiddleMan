@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiddleMan</string>
+    <string name="received_result">Received Result</string>
+    <string name="o.k">O.K</string>
+</resources>

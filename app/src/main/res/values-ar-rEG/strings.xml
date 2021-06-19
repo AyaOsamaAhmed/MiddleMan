@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiddleMan</string>
+    <string name="received_result">"النتيجة المستلمة "</string>
+    <string name="o.k">تأكيد</string>
+</resources>
